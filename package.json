@@ -1,0 +1,18 @@
+{
+  "name": "Streamyard-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RahulmalhotraXGIT/Streamyard-clone",
+  "author": "Rahul Malhotra <122792590+RahulmalhotraXGIT@users.noreply.github.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
